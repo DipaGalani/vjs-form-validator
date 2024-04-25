@@ -1,0 +1,1 @@
+display: none; will collapse everything around an element, while visibility: hidden; simply hides the element.
